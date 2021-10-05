@@ -13,6 +13,7 @@ import { AppWithStore } from "@Interfaces";
 import { makeStore } from "@Redux";
 
 import "@Static/css/main.scss";
+import '../signup/style.scss';
 // #endregion Local Imports
 
 class WebApp extends App<AppWithStore> {
